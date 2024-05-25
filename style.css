@@ -1,0 +1,148 @@
+body{
+    margin-top: 60px;
+    background-color: rgb(235, 235, 235);
+}
+
+/*Navbar*/
+
+.navbar{
+    margin-bottom: 50px;
+    background-color: rgb(195, 206, 216);
+}
+
+.navbar-brand{
+    width: 200px;
+    margin-left: 20px;
+}
+
+.nav-item{
+    font-size: 20px;
+    font-weight: 600;
+    padding-left: 15px;
+    padding-right: 15px;
+    color: rgb(231, 105, 47);
+}
+
+.nav-link:hover{
+    color: white;
+}
+
+/*Header*/
+
+.jumbotron{
+    background-color: rgb(145, 173, 164);
+    height: 50vh;
+    width: 100%;
+    padding-top: 125px;
+    padding-left: 70px;
+    margin-bottom: 50px;
+}
+
+h1{
+    padding-top: 20px;
+}
+
+/*Product section / Section 1*/
+
+.product-header{
+    margin-bottom: 50px;
+}
+
+.card-product{
+    width: 200px;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-bottom: 50px;
+}
+
+.description{
+    margin-bottom: 7px;
+}
+
+span{
+    margin-bottom: 7px;
+}
+
+.itemPrice{
+    margin-bottom: 5px;
+    font-weight: bold;
+    font-size: 20;
+}
+
+.pesos{
+    font-weight: bold;
+    font-size: 20;
+}
+
+/*Forms Section*/
+
+.section2{
+    margin-top: 40px;
+    margin-bottom: 50px;
+}
+
+.cart-desc{
+    margin-left: 4px;
+}
+
+.card-cart{
+    width: 425px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.list-design{
+    border: none;
+    width: 100%;
+}
+
+.card-details{
+    width: 725px;
+    margin-left: 30px;
+    margin-right: 30px;
+    border: none;
+    background-color: rgb(235, 235, 235);
+}
+
+.details-box{
+    width: 50%;
+}
+
+.name-box{
+    margin-right: 10px;
+}
+
+input{
+    width: 100%;
+}
+
+.name-email{
+    margin-bottom: 15px;
+}
+
+#submit-btn{
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: rgb(154, 154, 224);
+    color: white;
+    padding: 10px;
+}
+
+.card-body ul{
+    overflow-y:auto;
+    max-height:200px; 
+    width:100%;
+}
+
+.r-btn{
+    background-color: none;
+    padding-top: 0;
+    padding-bottom: 0;
+    padding-left: 7px;
+    padding-right: 7px;
+}
+
+#item{
+    margin-left: 30px;
+    margin-right: 30px;
+}

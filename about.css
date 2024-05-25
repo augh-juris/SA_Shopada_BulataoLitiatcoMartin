@@ -1,0 +1,76 @@
+body{
+    margin: 70px;
+    margin-top: 150px;
+}
+.about-1{
+    margin: 30px;
+    padding: 5px;
+}
+.about-1 h2{
+    text-align: center;
+    color: black;
+    font-weight: bold;
+    font-size: 40px;
+}
+.about-1 p{
+    text-align: center;
+    padding: 3px;
+    color: black;
+}
+
+.navbar{
+    margin-bottom: 50px;
+    background-color: rgb(195, 206, 216);
+}
+.navbar-brand{
+    width: 200px;
+    margin-left: 20px;
+}
+
+.nav-item{
+    font-size: 20px;
+    font-weight: 600;
+    padding-left: 15px;
+    padding-right: 15px;
+    color: rgb(231, 105, 47);
+}
+
+.nav-link:hover{
+    color: white;
+}
+
+.content {
+    width: 100%;
+    padding: 78px 0px;
+    background-color: white;
+}
+.content img {
+    height: auto;
+    width: 420px;
+    padding: 20px;
+    border: 2px;
+}
+.content-text {
+    width: 550px;
+}
+.jaron {
+    width: 1130px;
+    max-width: 95%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.content-text h1 {
+    color: black;
+    font-size: 80px;
+    text-transform: capitalize;
+    margin-bottom: 20px;
+}
+.content-text h5 {
+    color: black;
+    font-size: 25px;
+    text-transform: capitalize;
+    margin-bottom: 25px;
+    letter-spacing: 2px;
+}
